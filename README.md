@@ -8,3 +8,6 @@ my Bootstrap study notes.
     < div class="col-sm-4" >    
     < div class="col-sm-4" > col-sm-4 表示以 4 span 將一橫排分成三等份    
 ![](https://github.com/MavisYang2018/my-first-bootstrap/blob/master/img/col-sm-4.png)
+
+## 2018.02.03
+- 文本與顯示方式的撰寫
